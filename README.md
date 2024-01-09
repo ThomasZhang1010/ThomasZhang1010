@@ -48,6 +48,7 @@ Deploy:
 ✅ Vercel
 
 Databases:
+
 ✅ SQL based: MySQL, PostgreSQL;
 
 ✅NoSQL based: MongoDB, CouchDB\PouchDB
