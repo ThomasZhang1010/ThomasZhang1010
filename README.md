@@ -10,8 +10,6 @@ Frontend skills:
 
 ✅ VueJs
 
-✅ Firebase
-
 ✅ JQuery
 
 ✅ ES5, ES6 (Javascript)
@@ -34,6 +32,8 @@ Backend skills:
 ✅ AWS
 
 ✅ Microsoft Azure
+
+✅ Firebase
 
 Deploy:
 
