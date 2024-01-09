@@ -3,28 +3,51 @@ Over 12 years of professional experience in web development and design with a pa
 My skill sets include:
 
 Frontend skills:
+
 ✅ React + Redux
+
 ✅ Angular
+
 ✅ VueJs
+
 ✅ Firebase
+
 ✅ JQuery
+
 ✅ ES5, ES6 (Javascript)
+
 ✅ JS Compilers: Babel.js, Gulp, Grunt, Webpack
+
 ✅ HTML5, СSS3, SCSS
+
 ✅ Adaptive layouts/frameworks - Bootstrap, TailwindCss
 
+
 Backend skills:
+
 ✅ PHP Laravel
+
 ✅ ExpressJS / NodeJS / NestJS
+
 ✅ Amazon Serverless
+
 ✅ AWS
 
+✅ Microsoft Azure
+
 Deploy:
+
 ✅ DigitalOcean
+
 ✅ Heroku
+
 ✅ Google Cloud
+
 ✅ Amazon
 
+✅ Vercel
+
 Databases:
-✅ SQL based: MySQL, PostgreSQL, SQLlite(for Android);
-✅NoSQL based: MongoDB.
+✅ SQL based: MySQL, PostgreSQL;
+
+✅NoSQL based: MongoDB, CouchDB\PouchDB
